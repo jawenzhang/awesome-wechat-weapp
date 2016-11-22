@@ -4,6 +4,7 @@
 
 - [官方文档](#官方文档)
 - [新闻报道](#新闻报道)
+- [社区](#社区)
 - [工具](#工具)
 - [插件](#插件)
 - [分析](#分析)
@@ -33,16 +34,21 @@
 - [微信正式开放内测“小程序”，不开发APP的日子真的来了？(36氪)](http://36kr.com/p/5053349.html)
 - [关于微信小程序（应用号），我能透露的几个细节(可能吧)](https://kenengba.com/post/3515.html)
 - [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(虎嗅网)](https://www.huxiu.com/article/164700.html)
+- [微信公众平台小程序开放公测 (微信官方)](https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1478163659&version=15&lang=zh_CN)
+
+## 社区
+- [WXOPEN Club | 微信小程序专业社区](http://wxopen.club/)
 
 ## 工具
 
-- [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
+- ~~[微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)~~
 - [微信小程序配置及目录在线生成工具](https://weapptool.com)
-- [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
+- ~~[IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)~~
 - [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 - [Labrador 支持ES6/7的微信小程序组件化开发框架](https://github.com/maichong/labrador)
 - [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
 - [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
+- [Px转Rpx在线工具](http://allanguys.github.io/px2rpx)
 
 ## 插件
 
@@ -105,7 +111,7 @@
 - [微信小程序剖析 | 运行机制及框架原理(前端之巅)](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484316&idx=1&sn=463bbea1626458beb30f55ce155b4983&chksm=9723615ea054e848497c3b72e5264d99c9230144bd21862c508211085bf93b71078cc2fc1fc5&mpshare=1&scene=1&srcid=1013yiCsz6WNYwpKs2UDYuOO#rd)
 
 ## 视频教程
-
+- [免费视频教程 - WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)
 - [视频 - 全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
 - [视频 - 微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
 - [视频 - 微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
@@ -132,6 +138,7 @@
 
 ## 代码
 
+- [微信小程序官方Demo(Hao-Wu/WeApp-Demo)](https://github.com/Hao-Wu/WeApp-Demo)
 - [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
 - [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
 - [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
@@ -170,6 +177,7 @@
 - [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
 - [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 - [微信小程序 - 面包旅行(romoo/weapp-demo-breadtrip)](https://github.com/romoo/weapp-demo-breadtrip)
+- [微信小程序-淘票票(weapp-film)](https://github.com/luuman/weapp-film)
 
 ## 轮子
 
